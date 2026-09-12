@@ -10,7 +10,7 @@
       VERSION: "1.21.9"
 
       # RAM
-      MEMORY: "3G"
+      MEMORY: "4G"
 
       # Server settings
       MAX_PLAYERS: "4"
